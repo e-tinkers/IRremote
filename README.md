@@ -1,6 +1,8 @@
 # The Original IRremote Library for Arduino
 
-This is the original IRremote library for Arduino (version 2.3.0 with some bug fix to make it works on esp32) before someone took the lirary to became part of the "official" Arduino library [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote). Over the years, the "official" broke many of the APIs, so if you had an sketch/tutorial based on old IRremote library, it will not work on the existing "official" library. No doubt there are many bug-fixes and improvement on the "official" one over the original version, it is sometime in my opinion not necessary in a good way. The "official" code is bloated and uncessarily complicate to use, so if you need the original IRremote library for any reason, you can use this version.
+This is the original IRremote library for Arduino (version 2.3.0 with some bug fix to make it works on esp32) before someone took the lirary to became part of the "official" Arduino library [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote). Over the years, the "official" broke many of the APIs, so if you had an sketch/tutorial based on the original IRremote library, it will not work on the existing "official" library. 
+
+No doubt there are many bug-fixes and improvement on the "official" one over the original version, the "official" code is bloated and uncessarily complicate to use, I had kept this version for many years for my own usage, so if you need the original IRremote library for any reason like me, you can use this version.
 
 ============ ORIGINAL README.md ============
 # IRremote Arduino Library
